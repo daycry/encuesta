@@ -1,0 +1,4 @@
+Este es un proyecto realizado en Codeigniter.
+Autor: Daycry
+
+Cualquier duda o consulta, no dudes de escribirlo en daycryweb.blogspot.com
